@@ -1,7 +1,4 @@
-import logo from './logo.svg';
 import './App.css';
-import ExpenceItem from '../src/components/ExpenceItem';
-
 import Expenses from '../src/components/Expences/Expenses'
 
 const App = () => {
